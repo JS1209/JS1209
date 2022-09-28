@@ -30,6 +30,6 @@ I'm Jesse Schoenmakers, recently started as a full stack developer.
 ​
 ### My GitHub Stats
 ​
-![JS1209 GitHub stats](https://github-readme-stats.vercel.app/api?username=JS1209&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/JS1209?cardType=github&theme=radical)](https://git.io/awesome-stats-card)
 ​
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JS1209&show_icons=true&theme=radical)
