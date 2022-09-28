@@ -23,4 +23,4 @@ I'm Jesse Schoenmakers, recently started as a full stack developer.
 ---
 ​
 ### My GitHub Stats
-![My Awesome Stats](https://github-readme-stats.vercel.app/api usernme=JS1209&theme=radical)
+![My Awesome Stats](https://github-readme-stats.vercel.app/api?usernme=JS1209&theme=radical)
