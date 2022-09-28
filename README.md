@@ -4,14 +4,10 @@
 ​
 ### Hi there, Welcome to my GitHub ��
 ​
-My name is Giannis Megkoulas, passionate Full Stack Developer 🏠 in Amsterdam! Creating new apps is the future and i want to be part of it, doing my best to mastery that. I really enjoy learning languages and frameworks.
+I'm Jesse Schoenmakers, recently started as a full stack developer.
 ​
-Hereby my [Portfolio ®](https://giannismegoulsd.netlify.app/)
-​
--  �� Knowledge is power and i like to get stronger every day!
--  �� Always looking to collaborate and make connections with wise people
--  �� How to reach me: megoulas2@hotmail.com
--  ⚡ Let's connect – [LinkedIn](https://www.linkedin.com/in/giannis-megoulas-aa76b266/)
+-  �� How to reach me: j.a.schoenmakers@outlook.com
+-  ⚡ Let's connect – [LinkedIn](https://www.linkedin.com/in/jesse-schoenmakers-5055a4239/)
 ​
 ---
 ​
@@ -34,6 +30,6 @@ Hereby my [Portfolio ®](https://giannismegoulsd.netlify.app/)
 ​
 ### My GitHub Stats
 ​
-![Vasileios GitHub stats](https://github-readme-stats.vercel.app/api?username=GiannisMeg&show_icons=true&theme=radical)
+![Vasileios GitHub stats](https://github-readme-stats.vercel.app/api?username=JS1209_icons=true&theme=radical)
 ​
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiannisMeg&layout=compact&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JS1209ut=compact&show_icons=true&theme=radical)
