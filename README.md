@@ -30,6 +30,6 @@ I'm Jesse Schoenmakers, recently started as a full stack developer.
 ​
 ### My GitHub Stats
 ​
-![Vasileios GitHub stats](https://github-readme-stats.vercel.app/api?username=JS1209_icons=true&theme=radical)
+![JS1209 GitHub stats](https://github-readme-stats.vercel.app/api?username=JS1209&theme=radical)
 ​
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JS1209ut=compact&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JS1209&show_icons=true&theme=radical)
