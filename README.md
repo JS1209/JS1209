@@ -1,15 +1,9 @@
 <!-- ![ colorful Tech ](chain.gif) [](chain.gif) -->
-​
----
-​
 ### Hi there, Welcome to my GitHub ��
-​
 I'm Jesse Schoenmakers, recently started as a full stack developer.
 ​
 -  �� How to reach me: j.a.schoenmakers@outlook.com
 -  ⚡ Let's connect – [LinkedIn](https://www.linkedin.com/in/jesse-schoenmakers-5055a4239/)
-​
----
 ​
 ### Languages & Tools
 ​
@@ -29,7 +23,4 @@ I'm Jesse Schoenmakers, recently started as a full stack developer.
 ---
 ​
 ### My GitHub Stats
-​
 ![My Awesome Stats](https://github-readme-stats.vercel.app/api usernme=JS1209&theme=radical)
-​
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JS1209&show_icons=true&theme=radical)
