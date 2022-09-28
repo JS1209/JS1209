@@ -20,6 +20,4 @@ I'm Jesse Schoenmakers, recently started as a full stack developer.
 <img height='32' width='32' title='AutoCad' src='https://logodix.com/logo/635166.png'>
 </p>
 ​
----
-​
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JS1209&theme=radical)
