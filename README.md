@@ -16,7 +16,6 @@ I'm Jesse Schoenmakers, recently started as a full stack developer.
 <img height='32' width='32' title= 'CSS3' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'>
 <img height='32' width='32' title= 'GitHub' src='https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png'>
 <img height='32' width='32' title= 'terminal' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png'>
-<img height='32' width='32' title='Python' src='https://www.subpng.com/png-mlf18r/'>
 </p>
 
 
